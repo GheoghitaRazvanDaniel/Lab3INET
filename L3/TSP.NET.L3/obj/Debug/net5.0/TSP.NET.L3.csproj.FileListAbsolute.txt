@@ -1,0 +1,12 @@
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\bin\Debug\net5.0\TSP.NET.L3.deps.json
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\bin\Debug\net5.0\TSP.NET.L3.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\bin\Debug\net5.0\ref\TSP.NET.L3.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\bin\Debug\net5.0\TSP.NET.L3.pdb
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.csproj.AssemblyReference.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.AssemblyInfoInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.AssemblyInfo.cs
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.csproj.CoreCompileInputs.cache
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\ref\TSP.NET.L3.dll
+C:\Users\folariu\OneDrive - Centric\Desktop\Personal documents\Introducere in .NET\Curs 3\L3\TSP.NET.L3\obj\Debug\net5.0\TSP.NET.L3.pdb
